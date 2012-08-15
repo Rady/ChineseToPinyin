@@ -2,7 +2,7 @@
 
 This is a Sublime Text plugin "ChineseToPinyin" <https://github.com/rady/chinesetopinyin>. It provides translation Chinese to Pinyin.
 
-The python of Chinese to Pinyin core is [xpinyin][].
+The python of Chinese to Pinyin core is "xpinyin" <https://github.com/lxneng/xpinyin>.
 
 
 ## Installation
@@ -20,5 +20,3 @@ Press Ctrl+Shift+P to bring up the command input panel. Type in "ChineseToPinyin
 
 Copyright (C) 2012 Rady Huang. MIT License.
 
-
-[xpinyin] https://github.com/lxneng/xpinyin
