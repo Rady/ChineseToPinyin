@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ChineseToPinyin: Translate Chinese to Pinyin",
+        "command": "chinese_to_pinyin"
+    }
+]
